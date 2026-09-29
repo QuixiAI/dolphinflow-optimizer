@@ -93,7 +93,7 @@ The `grokking` paper by Prieto et al., which inspired the `ortho_mode="vector"` 
 
 > A PyTorch implementation of the `stablemax_cross_entropy` loss function is available as part of the **[Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)** fine-tuning framework. You can find the implementation and details here:
 >
-> **[https://github.com/cognitivecomputations/axolotl/blob/main/src/axolotl/integrations/stablemax/](https://github.com/cognitivecomputations/axolotl/blob/main/src/axolotl/integrations/stablemax/)**
+> **[https://github.com/QuixiAI/axolotl/blob/main/src/axolotl/integrations/stablemax/](https://github.com/QuixiAI/axolotl/blob/main/src/axolotl/integrations/stablemax/)**
 
 ## Performance: `torch.compile` and Mixed Precision
 
@@ -151,7 +151,7 @@ If you use DolphinFlow in your research, please consider citing the software dir
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/cognitivecomputations/dolphinflow-optimizer}}
+  howpublished = {\url{https://github.com/QuixiAI/dolphinflow-optimizer}}
 }
 ```
 

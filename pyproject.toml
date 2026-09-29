@@ -30,8 +30,8 @@ dependencies = [
 requires-python = ">=3.8"
 
 [project.urls]
-Homepage = "https://github.com/cognitivecomputations/dolphinflow-optimizer"
-"Bug Tracker" = "https://github.com/cognitivecomputations/dolphinflow-optimizer/issues"
+Homepage = "https://github.com/QuixiAI/dolphinflow-optimizer"
+"Bug Tracker" = "https://github.com/QuixiAI/dolphinflow-optimizer/issues"
 
 # PERFECTION NOTE: This is the critical new section.
 # It defines an "extra" for installing the 8-bit optimizer's dependency.
